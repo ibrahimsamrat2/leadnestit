@@ -1,0 +1,8 @@
+{
+  "name": "LeadNest IT",
+  "description": "LeadNest IT helps businesses build professional websites, generate leads, grow sales and automate repetitive business processes with modern digital and AI solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
